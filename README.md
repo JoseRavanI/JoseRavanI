@@ -27,7 +27,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/jos%C3%A9-ravani/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -43,14 +43,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoseRavanI/JoseRavanI/output/snake.svg" alt="Snake animation" />
+  
 </div>
 
 ###
 
 <div align="center">
   <p align="center">
-    <a href="mailto:seuemail@exemplo.com">
+    <a href="email: josehenriqueravani123@gmail.com">
       <img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
