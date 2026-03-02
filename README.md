@@ -28,14 +28,15 @@
   <img src="https://streak-stats.demolab.com?user=JoseRavanI&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<div align="center">Email: josehenriqueravani123@gmail.com</div>
-
-###
 
 ###
 
 <br clear="both">
+
+###
+
+###
+
+<div align="center">Email: josehenriqueravani123@gmail.com</div>
 
 ###
