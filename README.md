@@ -27,18 +27,31 @@
 ###
 
 <div align="center">
-  <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://www.linkedin.com/in/jos%C3%A9-ravani/)" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=JoseRavanI&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h3>Email: josehenriqueravani123@gmail.com</h3> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JoseRavanI/JoseRavanI/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
+
+<div align="center">
+  <p align="center">
+    <a href="mailto:seuemail@exemplo.com">
+      <img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
